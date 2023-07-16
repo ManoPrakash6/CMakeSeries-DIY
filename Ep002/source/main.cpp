@@ -11,6 +11,6 @@ T add( T a, T b){
 int main()
 {
   cout << "Hello from C++ on windows" << endl;
-  cout << "The sum is: " << add(7, 5) << endl;
+  cout << "The sum is: " << add(7, 3) << endl;
   return 0;
 }
